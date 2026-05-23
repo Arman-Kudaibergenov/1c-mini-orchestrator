@@ -47,6 +47,10 @@ Per-phase peek/kill (`scripts/peek-analyst.ps1` etc.) — DEPRECATED forwarding 
 - `docs/writer-forcing-functions.md` — FF1-FF8 для всех L3-агентов
 - `docs/phase4-stage8-signoff-convention.md` — `operator_signoff.txt audit=<verdict>` convention
 
+## Hooks (optional)
+
+См. [`hooks/`](hooks/README.md) — опциональные Claude Code hooks (autonomous chain re-prompting, context state-machine, RLM session save, post-phase auto-validate). Все hooks **opt-in** через `settings.json` + env vars, дефолт OFF.
+
 ## Lineage & credits
 
 См. [CREDITS.md](CREDITS.md) и [NOTICE](NOTICE). Лицензия — Apache License 2.0 (см. [LICENSE](LICENSE)).
