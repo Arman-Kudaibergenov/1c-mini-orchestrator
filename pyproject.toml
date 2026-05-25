@@ -3,7 +3,7 @@ name = "1c-mini-orchestrator"
 version = "0.1.0"
 description = "Local lightweight orchestrator for 1C projects: analyst -> SDD-writer -> implementer -> auditor chain, Windows-laptop friendly."
 requires-python = ">=3.11"
-license = { text = "Apache-2.0" }
+license = { text = "AGPL-3.0-only" }
 authors = [
     { name = "Arman Kudaibergenov" },
 ]

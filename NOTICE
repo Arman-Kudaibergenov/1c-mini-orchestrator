@@ -1,11 +1,11 @@
 1c-mini-orchestrator
-Copyright 2026 Arman Kudaibergenov
+Copyright (C) 2026 Arman Kudaibergenov
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+This program is free software: you can redistribute it and/or modify it
+under the terms of the GNU Affero General Public License version 3.
 
-    http://www.apache.org/licenses/LICENSE-2.0
+For commercial licensing inquiries:
+  arman.kudaibergenov.mail@gmail.com
 
 This product optionally integrates with RLM-Toolkit by Dmitry Labintcev
 (https://github.com/DmitrL-dev/AISecurity/tree/main/rlm-toolkit, Apache-2.0)

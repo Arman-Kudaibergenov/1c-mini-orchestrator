@@ -53,4 +53,4 @@ Per-phase peek/kill (`scripts/peek-analyst.ps1` etc.) — DEPRECATED forwarding 
 
 ## Lineage & credits
 
-См. [CREDITS.md](CREDITS.md) и [NOTICE](NOTICE). Лицензия — Apache License 2.0 (см. [LICENSE](LICENSE)).
+См. [CREDITS.md](CREDITS.md) и [NOTICE](NOTICE). Лицензия — AGPL-3.0 (см. [LICENSE](LICENSE)).
