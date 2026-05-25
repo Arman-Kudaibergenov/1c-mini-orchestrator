@@ -1,20 +1,29 @@
 1c-mini-orchestrator
 Copyright (C) 2026 Arman Kudaibergenov
+https://github.com/Arman-Kudaibergenov/1c-mini-orchestrator
 
 This program is free software: you can redistribute it and/or modify it
 under the terms of the GNU Affero General Public License version 3.
+See the LICENSE file for the full license text.
 
-For commercial licensing inquiries:
+----------------------------------------------------------------------
+
+COMMERCIAL LICENSING
+
+The terms of the AGPL-3.0 (in particular, the network copyleft provisions
+of section 13) may be incompatible with proprietary or closed-source use.
+
+For a separate commercial license, contact:
+  Arman Kudaibergenov
   arman.kudaibergenov.mail@gmail.com
+
+----------------------------------------------------------------------
 
 This product optionally integrates with RLM-Toolkit by Dmitry Labintcev
 (https://github.com/DmitrL-dev/AISecurity/tree/main/rlm-toolkit, Apache-2.0)
 as the institutional memory MCP server. The orchestrator does not vendor
 or redistribute RLM-Toolkit code itself — it only calls the RLM MCP tools
 over HTTP when configured.
-
-Author repository:
-  https://github.com/Arman-Kudaibergenov/1c-mini-orchestrator
 
 Related public projects by the same author:
   - rlm-workflow: https://github.com/Arman-Kudaibergenov/rlm-workflow
